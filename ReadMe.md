@@ -1,5 +1,6 @@
 #How To Run
 To install required directories saved under the file 'Podfile':
+
 	1. Make sure CocoaPods is installed onto your macOS...
 		```
 		sudo gem install cocoapods
